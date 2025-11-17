@@ -1,13 +1,13 @@
 # Game+ - Publisher Pitch Documentation
 
 ## 🎮 App Overview
-Game+ is a cutting-edge HTML5 gaming platform that delivers **2,000+ premium games** through a beautifully designed Flutter application. With advanced monetization strategies, immersive VR-style UI effects, and seamless user experience, Game+ is positioned to capture significant market share in the casual gaming space.
+Game+ is a cutting-edge HTML5 gaming platform that delivers **800 premium games** through a beautifully designed Flutter application. With advanced monetization strategies, immersive VR-style UI effects, and seamless user experience, Game+ is positioned to capture significant market share in the casual gaming space.
 
 ### Core Details
 - **Name**: Game+
 - **Platform**: Flutter (HTML5)
 - **Version**: v1.0.0
-- **Games Count**: 2,000+
+- **Games Count**: 800
 - **Package**: com.betapix.gameplus
 
 ## ✨ Unique Selling Points (USP)
@@ -55,7 +55,7 @@ Game+ is a cutting-edge HTML5 gaming platform that delivers **2,000+ premium gam
 
 ## 👥 User Benefits
 ### Enhanced Experience
-- **Fresh Content**: Auto-update feel with 2,000+ games  
+- **Fresh Content**: Auto-update feel with 800 games  
 - **Personalization**: Favorites system and launcher shortcuts  
 - **Convenience**: Offline play support  
 
